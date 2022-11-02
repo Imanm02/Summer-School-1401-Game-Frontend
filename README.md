@@ -1,6 +1,6 @@
-# Finio
+# Finio, 1401 Summer School's Game
 
-[danastaryous.rastaiha.ir] (https://danastaryous.rastaiha.ir/)
+it [danastaryous.rastaiha.ir] (https://danastaryous.rastaiha.ir/) is
 
 ## Installation
 
